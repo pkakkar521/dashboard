@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# SHIKSHA-HUB(SMART INDIA HACKETHON PROJECT)
+Student One-Stop Learning Destination!
+This project is an innovative education platform designed to empower both students and teachers. It provides a dynamic and engaging learning environment for school-going students, while equipping teachers with valuable tools to track student progress and personalize learning experiences.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![Screenshot 2024-03-25 130707](https://github.com/pkakkar521/dashboard/assets/114657672/f57f59e6-362d-46bc-8186-8ede66329ae1)
 
-In the project directory, you can run:
+Features for Students:
 
-### `npm start`
+Personalized Learning: Shiksha Hub analyzes your academic data to identify areas for improvement and recommends targeted activities.
+Gamified Learning: Make learning fun! Earn rewards for completing homework, online tests, and educational games based on your chosen topics.
+Engaging Assessments: Test your knowledge and track your progress through interactive online tests.
+Reward System: Stay motivated by earning rewards for completing tasks and excelling in your studies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Benefits for Teachers:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![Screenshot 2024-03-25 130819](https://github.com/pkakkar521/dashboard/assets/114657672/60389ee4-5c54-4164-ba55-7864f343b8e8)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Performance Tracking: Gain a comprehensive overview of student performance through detailed data analysis.
+Personalized Learning Guidance: Shiksha Hub assists teachers in creating personalized learning plans for each student.
+Engaging Content Delivery: Access a variety of engaging resources to make lessons interactive and fun.
+Enhanced Communication: Shiksha Hub fosters better communication between teachers and students.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2024-03-25 131708](https://github.com/pkakkar521/dashboard/assets/114657672/bf023fc5-3eea-4034-98db-32a337a29b42)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+DashBoard
+Performance Analysis:
 
-### `npm run eject`
+Interactive Graphs: Dive deeper with interactive graphs that illustrate your performance trends in different subjects. Analyze strengths, weaknesses, and identify areas for improvement.
+Detailed Breakdown: See a subject-by-subject breakdown of your grades, scores on assignments and tests, and completion rates for homework and online activities.
+Gamification & Rewards:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Reward Tracker: Keep track of your earned rewards for completing tasks and excelling in your studies.
+Track your progress, identify areas for improvement, and celebrate your achievements – all in one convenient location!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot 2024-02-26 230437](https://github.com/pkakkar521/dashboard/assets/114657672/1a3cbcc9-0976-4639-9920-d70b28102312)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
